@@ -21,7 +21,7 @@ public class NumberOfWaysToCoinChange {
 
     public static void main(String[] args) {
 
-            int[] input={2,4};
+            int[] input={1,5,7};
             System.out.println(numberOfWaysToMakeChange(7, input));
     }
 }
